@@ -1,0 +1,11 @@
+numpy
+pandas
+jupyterlab
+pandas-profiling
+seaborn
+matplotlib
+scikit-learn
+xgboost
+optuna
+skorch
+spacecutter
